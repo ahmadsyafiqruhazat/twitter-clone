@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-##To start your Phoenix server:
+## To start your Phoenix server:
 
 - Setup the project with `mix setup`
 - Start Phoenix endpoint with `mix phx.server`
